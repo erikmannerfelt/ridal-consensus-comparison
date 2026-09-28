@@ -1,0 +1,10 @@
+{
+  "name": "ridal-consensus-compare",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Static site for comparing a group's radar picks with the published consensus.",
+  "scripts": {
+    "test": "node tests/js_consensus.test.mjs && node tests/js_analysis.test.mjs"
+  }
+}

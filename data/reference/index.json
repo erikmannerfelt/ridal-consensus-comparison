@@ -1,0 +1,3220 @@
+{
+  "generated_at": "2026-09-28T08:17:49.170913+00:00",
+  "source": "interpretations_gprinterp.zip",
+  "velocity_m_per_ns": 0.168,
+  "radargrams": {
+    "amenfonna-20240510-DAT_0044_A1_1": {
+      "n_traces": 1749,
+      "n_samples": 1990,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 1,
+        "frostybuddy": 1,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingfrost": 1,
+        "pingpioneer": 1,
+        "pingprankster": 1,
+        "polarpunk": 1,
+        "radarrover": 1,
+        "snowscout": 1,
+        "wavewanderer": 2
+      },
+      "difficulties": {
+        "easy": 12
+      },
+      "n_consensus_positions": 1749,
+      "n_picked_positions": 1749
+    },
+    "amenfonna-20240510-DAT_0046_A1_1": {
+      "n_traces": 4778,
+      "n_samples": 1987,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 1,
+        "glacialguru": 1,
+        "glaciergoof": 1,
+        "icejive": 2,
+        "pingpioneer": 1,
+        "polarpunk": 1,
+        "radarrover": 1,
+        "snowscout": 1,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 10
+      },
+      "n_consensus_positions": 4778,
+      "n_picked_positions": 4778
+    },
+    "antoniabreen-20250406-DAT_0166_A1_1": {
+      "n_traces": 2075,
+      "n_samples": 790,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 4,
+        "echoenthusiast": 3,
+        "echoteammate": 4,
+        "frostfacet": 6,
+        "frostyfusion": 5,
+        "glacialguru": 2,
+        "icejive": 2,
+        "pingpioneer": 2,
+        "pingprankster": 2,
+        "radarforce": 2,
+        "snowscout": 4,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "medium": 5,
+        "easy": 6,
+        "hard": 2
+      },
+      "n_consensus_positions": 1551,
+      "n_picked_positions": 2073
+    },
+    "antoniabreen-20250406-DAT_0168_A1_1": {
+      "n_traces": 9026,
+      "n_samples": 1071,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 8,
+        "echoteammate": 5,
+        "frostfacet": 3,
+        "glacialguru": 4,
+        "icejive": 4,
+        "pingprankster": 7,
+        "radarforce": 1,
+        "radarrebel": 3,
+        "snowscout": 6,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 3,
+        "easy": 1
+      },
+      "n_consensus_positions": 8491,
+      "n_picked_positions": 9026
+    },
+    "austfonna-20240507-DAT_0027_A1_1": {
+      "n_traces": 1359,
+      "n_samples": 1979,
+      "contributors": {
+        "admin": 1,
+        "chirpcheer": 4,
+        "coolclown": 1,
+        "echoteammate": 1,
+        "glacialguru": 1,
+        "glaciergoof": 3,
+        "icejive": 1,
+        "pingpioneer": 3,
+        "polarpunk": 1,
+        "radarforce": 1,
+        "radarrover": 2,
+        "signalsyncer": 1,
+        "snowscout": 2
+      },
+      "difficulties": {
+        "easy": 12,
+        "medium": 1
+      },
+      "n_consensus_positions": 1359,
+      "n_picked_positions": 1359
+    },
+    "austfonna-20240507-DAT_0028_A1_1": {
+      "n_traces": 15441,
+      "n_samples": 1979,
+      "contributors": {
+        "admin": 12,
+        "coolclown": 13,
+        "echoteammate": 15,
+        "glacialguru": 8,
+        "icejive": 14,
+        "pingpioneer": 32,
+        "polarpunk": 6,
+        "radarrover": 23,
+        "signalsyncer": 7,
+        "snowscout": 19,
+        "wavewizard": 28
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 2,
+        "easy": 2
+      },
+      "n_consensus_positions": 14572,
+      "n_picked_positions": 14756
+    },
+    "bergmesterbreen-20230222-DAT_0016_A1_1": {
+      "n_traces": 3409,
+      "n_samples": 1995,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 2,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingpioneer": 2,
+        "pingprankster": 4,
+        "polarpal": 2,
+        "radarrover": 1,
+        "snowscout": 1,
+        "wavewanderer": 2,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 10,
+        "medium": 1
+      },
+      "n_consensus_positions": 3409,
+      "n_picked_positions": 3409
+    },
+    "bergmesterbreen-20230222-DAT_0017_A1_4": {
+      "n_traces": 587,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 1,
+        "glacialguru": 1,
+        "icejive": 1,
+        "radarforce": 1,
+        "radarriff": 2,
+        "radarrover": 3,
+        "snowscout": 3,
+        "wavewanderer": 2,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 7,
+        "hard": 2,
+        "medium": 1
+      },
+      "n_consensus_positions": 587,
+      "n_picked_positions": 587
+    },
+    "bergmesterbreen-20230222-DAT_0033_A1_3": {
+      "n_traces": 5493,
+      "n_samples": 1995,
+      "contributors": {
+        "admin": 4,
+        "chirpchum": 3,
+        "coolclown": 9,
+        "frostybuddy": 2,
+        "glacialguru": 4,
+        "icejive": 5,
+        "pingprankster": 6,
+        "polarpunk": 4,
+        "radarrover": 8,
+        "snowscout": 10,
+        "wavewanderer": 10,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 3,
+        "easy": 2
+      },
+      "n_consensus_positions": 5047,
+      "n_picked_positions": 5493
+    },
+    "bergmesterbreen-20230222-DAT_0036_A1_1": {
+      "n_traces": 980,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 2,
+        "chirpchum": 1,
+        "coolclown": 1,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingpioneer": 3,
+        "polarpunk": 1,
+        "radarforce": 1,
+        "radarriff": 2,
+        "radarrover": 2,
+        "snowscout": 2,
+        "wavewanderer": 1,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 11,
+        "medium": 2
+      },
+      "n_consensus_positions": 980,
+      "n_picked_positions": 980
+    },
+    "bergmesterbreen-20230222-DAT_0037_A1_1": {
+      "n_traces": 4952,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 8,
+        "coolclown": 9,
+        "echoteammate": 1,
+        "glacialguru": 9,
+        "icejive": 4,
+        "icewanderer": 2,
+        "pingprankster": 3,
+        "snowscout": 10,
+        "wavewanderer": 8,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 3,
+        "hard": 2,
+        "easy": 5
+      },
+      "n_consensus_positions": 4952,
+      "n_picked_positions": 4952
+    },
+    "dronbreen-20190225-DAT_0015_A1_2": {
+      "n_traces": 5064,
+      "n_samples": 890,
+      "contributors": {
+        "admin": 4,
+        "coolclown": 6,
+        "echoteammate": 1,
+        "frostfacet": 1,
+        "glacialguru": 5,
+        "icejive": 1,
+        "pingprankster": 5,
+        "radarrover": 1,
+        "snowscout": 4,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 9,
+        "medium": 1
+      },
+      "n_consensus_positions": 5064,
+      "n_picked_positions": 5064
+    },
+    "dronbreen-20190225-DAT_0018_A1_2": {
+      "n_traces": 5397,
+      "n_samples": 1539,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 5,
+        "coolclown": 5,
+        "echoteammate": 1,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingprankster": 5,
+        "radarrebel": 1,
+        "snowscout": 1,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "easy": 7,
+        "hard": 1,
+        "medium": 2
+      },
+      "n_consensus_positions": 5397,
+      "n_picked_positions": 5397
+    },
+    "dronbreen-20190225-DAT_0020_A1_1": {
+      "n_traces": 4885,
+      "n_samples": 1539,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 12,
+        "echoteammate": 1,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingprankster": 8,
+        "radarrebel": 1,
+        "radarrover": 2,
+        "snowscout": 7,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 8,
+        "medium": 2
+      },
+      "n_consensus_positions": 4885,
+      "n_picked_positions": 4885
+    },
+    "dronbreen-20190225-DAT_0021_A1_2": {
+      "n_traces": 6324,
+      "n_samples": 1539,
+      "contributors": {
+        "admin": 6,
+        "avalancheamigo": 7,
+        "coolclown": 18,
+        "echoteammate": 1,
+        "glacialguru": 10,
+        "icejive": 1,
+        "pingprankster": 4,
+        "radarrebel": 1,
+        "snowscout": 6,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 5,
+        "medium": 5
+      },
+      "n_consensus_positions": 6324,
+      "n_picked_positions": 6324
+    },
+    "dronbreen-20200224-DAT_0002_A1_1": {
+      "n_traces": 7096,
+      "n_samples": 1602,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 2,
+        "cryocohort": 1,
+        "echoteammate": 1,
+        "glacialguru": 2,
+        "icejive": 1,
+        "pingprankster": 3,
+        "radarrebel": 1,
+        "snowscout": 2,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "easy": 7,
+        "medium": 3
+      },
+      "n_consensus_positions": 7096,
+      "n_picked_positions": 7096
+    },
+    "dronbreen-20200224-DAT_0003_A1_2": {
+      "n_traces": 7118,
+      "n_samples": 1985,
+      "contributors": {
+        "admin": 7,
+        "coolclown": 15,
+        "glacialguru": 8,
+        "glaciergoof": 15,
+        "icejive": 2,
+        "pingprankster": 12,
+        "radarforce": 7,
+        "radarriff": 5,
+        "snowscout": 8,
+        "wavewizard": 6
+      },
+      "difficulties": {
+        "easy": 5,
+        "medium": 4,
+        "hard": 1
+      },
+      "n_consensus_positions": 6243,
+      "n_picked_positions": 6300
+    },
+    "dronbreen-20200224-DAT_0007_A1_20": {
+      "n_traces": 13663,
+      "n_samples": 1976,
+      "contributors": {
+        "admin": 23,
+        "avalancheamigo": 12,
+        "coolclown": 59,
+        "echoteammate": 3,
+        "glacialguru": 17,
+        "icejive": 7,
+        "pingprankster": 8,
+        "radarrebel": 13,
+        "snowscout": 9,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "hard": 3,
+        "medium": 6,
+        "easy": 1
+      },
+      "n_consensus_positions": 12972,
+      "n_picked_positions": 13512
+    },
+    "dronbreen-20200225-DAT_0029_A1_1": {
+      "n_traces": 6332,
+      "n_samples": 1987,
+      "contributors": {
+        "admin": 8,
+        "avalancheamigo": 12,
+        "coolclown": 11,
+        "echoteammate": 9,
+        "glacialguru": 10,
+        "icejive": 2,
+        "pingprankster": 11,
+        "radarrebel": 9,
+        "snowscout": 8,
+        "wavewizard": 6
+      },
+      "difficulties": {
+        "medium": 4,
+        "easy": 6
+      },
+      "n_consensus_positions": 5769,
+      "n_picked_positions": 5773
+    },
+    "dronbreen-20200225-DAT_0030_A1_10": {
+      "n_traces": 9928,
+      "n_samples": 1988,
+      "contributors": {
+        "admin": 22,
+        "avalancheamigo": 18,
+        "coolclown": 24,
+        "echoteammate": 15,
+        "glacialguru": 17,
+        "icejive": 17,
+        "pingprankster": 31,
+        "radarrebel": 17,
+        "snowscout": 20,
+        "wavewizard": 16
+      },
+      "difficulties": {
+        "medium": 6,
+        "easy": 2,
+        "hard": 2
+      },
+      "n_consensus_positions": 8402,
+      "n_picked_positions": 8941
+    },
+    "dronbreen-20200226-DAT_0041_A1_3": {
+      "n_traces": 4890,
+      "n_samples": 1986,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 1,
+        "cryocohort": 2,
+        "glacialguru": 2,
+        "icejive": 1,
+        "pingfrost": 1,
+        "pingprankster": 2,
+        "polarpioneer": 2,
+        "snowscout": 3,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 7,
+        "medium": 3
+      },
+      "n_consensus_positions": 4647,
+      "n_picked_positions": 4889
+    },
+    "dronbreen-20200226-DAT_0044_A1_15": {
+      "n_traces": 9707,
+      "n_samples": 1986,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 13,
+        "coolclown": 9,
+        "echoteammate": 6,
+        "glacialguru": 7,
+        "icejive": 1,
+        "pingprankster": 6,
+        "radarrebel": 1,
+        "snowscout": 3,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 5,
+        "hard": 1,
+        "medium": 4
+      },
+      "n_consensus_positions": 9703,
+      "n_picked_positions": 9707
+    },
+    "dronbreen-20220328-DAT_0226_A1_1": {
+      "n_traces": 5864,
+      "n_samples": 2001,
+      "contributors": {
+        "admin": 7,
+        "coolclown": 9,
+        "cryocohort": 6,
+        "echoteammate": 2,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingprankster": 8,
+        "radarforce": 1,
+        "snowscout": 4,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "easy": 6,
+        "medium": 4
+      },
+      "n_consensus_positions": 5864,
+      "n_picked_positions": 5864
+    },
+    "dronbreen-20220328-DAT_0227_A1_1": {
+      "n_traces": 10518,
+      "n_samples": 2001,
+      "contributors": {
+        "admin": 14,
+        "avalancheamigo": 1,
+        "coolclown": 11,
+        "cryocohort": 10,
+        "echoteammate": 5,
+        "glacialguru": 7,
+        "icejive": 6,
+        "pingprankster": 9,
+        "snowscout": 8,
+        "wavewizard": 10
+      },
+      "difficulties": {
+        "medium": 7,
+        "easy": 3
+      },
+      "n_consensus_positions": 10518,
+      "n_picked_positions": 10518
+    },
+    "dronbreen-20220328-DAT_0228_A1_2": {
+      "n_traces": 4181,
+      "n_samples": 1993,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 4,
+        "coolclown": 6,
+        "echoteammate": 3,
+        "glacialguru": 7,
+        "icejive": 4,
+        "pingprankster": 6,
+        "radarrebel": 4,
+        "snowscout": 3,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 10
+      },
+      "n_consensus_positions": 4181,
+      "n_picked_positions": 4181
+    },
+    "dronbreen-20220328-DAT_0230_A1_4": {
+      "n_traces": 3986,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 8,
+        "avalancheamigo": 8,
+        "coolclown": 8,
+        "cryocohort": 8,
+        "echoteammate": 6,
+        "frostyfellow": 7,
+        "glacialguru": 7,
+        "icejive": 9,
+        "snowscout": 10,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "medium": 9,
+        "hard": 1
+      },
+      "n_consensus_positions": 3858,
+      "n_picked_positions": 3986
+    },
+    "dronbreen-20220329-DAT_0234_A1_1": {
+      "n_traces": 5403,
+      "n_samples": 2004,
+      "contributors": {
+        "admin": 7,
+        "avalancheamigo": 2,
+        "bergbuddy": 14,
+        "coolclown": 11,
+        "cryocohort": 6,
+        "echoteammate": 3,
+        "glacialguru": 6,
+        "icejive": 3,
+        "snowscout": 5,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "easy": 7,
+        "hard": 1,
+        "medium": 2
+      },
+      "n_consensus_positions": 5403,
+      "n_picked_positions": 5403
+    },
+    "dronbreen-20220329-DAT_0235_A1_1": {
+      "n_traces": 5685,
+      "n_samples": 2005,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 4,
+        "cryocohort": 30,
+        "echoteammate": 4,
+        "glacialguru": 10,
+        "icejive": 6,
+        "pingfrost": 25,
+        "radarrebel": 2,
+        "snowscout": 31,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "hard": 5,
+        "easy": 1,
+        "medium": 4
+      },
+      "n_consensus_positions": 5574,
+      "n_picked_positions": 5685
+    },
+    "dronbreen-20220329-DAT_0236_A1_2": {
+      "n_traces": 2631,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 5,
+        "avalancheamigo": 12,
+        "cheerchill": 5,
+        "coolclown": 12,
+        "echoenthusiast": 12,
+        "echoteammate": 4,
+        "frostyfellow": 6,
+        "frostyfrolic": 3,
+        "glacialguru": 5,
+        "glaciergrin": 6,
+        "icejive": 5,
+        "pingfrost": 12,
+        "pingprankster": 5,
+        "radarforce": 3,
+        "radarrebel": 6,
+        "signalsled": 4,
+        "signalsyncer": 2,
+        "snowscout": 4,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 2,
+        "hard": 3,
+        "medium": 14
+      },
+      "n_consensus_positions": 2247,
+      "n_picked_positions": 2630
+    },
+    "dronbreen-20220329-DAT_0238_A1_8": {
+      "n_traces": 6309,
+      "n_samples": 1995,
+      "contributors": {
+        "admin": 8,
+        "avalancheamigo": 1,
+        "coolclown": 11,
+        "cryocohort": 24,
+        "echoteammate": 3,
+        "frostfacet": 5,
+        "glacialguru": 11,
+        "icejive": 8,
+        "snowscout": 8,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 3,
+        "hard": 4,
+        "easy": 3
+      },
+      "n_consensus_positions": 6109,
+      "n_picked_positions": 6309
+    },
+    "dronbreen-20220329-DAT_0247_A1_2": {
+      "n_traces": 3675,
+      "n_samples": 2005,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 6,
+        "echoteammate": 3,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingprankster": 7,
+        "radarforce": 2,
+        "radarrover": 3,
+        "snowscout": 3,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 7,
+        "hard": 1,
+        "medium": 2
+      },
+      "n_consensus_positions": 3674,
+      "n_picked_positions": 3674
+    },
+    "dronbreen-20220329-DAT_0249_A1_1": {
+      "n_traces": 2395,
+      "n_samples": 1997,
+      "contributors": {
+        "admin": 5,
+        "avalancheamigo": 11,
+        "coolclown": 13,
+        "cryocohort": 4,
+        "echoteammate": 9,
+        "glacialguru": 6,
+        "icejive": 12,
+        "radarriff": 12,
+        "snowscout": 5,
+        "wavewizard": 7
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 1,
+        "easy": 2
+      },
+      "n_consensus_positions": 2290,
+      "n_picked_positions": 2395
+    },
+    "dronbreen-20230220-DAT_0009_A1_1": {
+      "n_traces": 11731,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 13,
+        "avalancheamigo": 10,
+        "chillchum": 2,
+        "coolclown": 16,
+        "echoteammate": 3,
+        "glacialguru": 12,
+        "icejive": 3,
+        "pingprankster": 9,
+        "radarrebel": 3,
+        "snowscout": 8,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 7,
+        "medium": 4
+      },
+      "n_consensus_positions": 11731,
+      "n_picked_positions": 11731
+    },
+    "dronbreen-20230221-DAT_0012_A1_1": {
+      "n_traces": 3194,
+      "n_samples": 1992,
+      "contributors": {
+        "admin": 4,
+        "coolclown": 4,
+        "cryocohort": 3,
+        "echoteammate": 3,
+        "frostfacet": 2,
+        "glacialguru": 2,
+        "icejive": 3,
+        "pingprankster": 2,
+        "snowscout": 2,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 3,
+        "easy": 7
+      },
+      "n_consensus_positions": 3194,
+      "n_picked_positions": 3194
+    },
+    "dronbreen-20230221-DAT_0013_A1_1": {
+      "n_traces": 5233,
+      "n_samples": 1988,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 4,
+        "frostybuddy": 3,
+        "glacialguru": 3,
+        "icejive": 3,
+        "pingpioneer": 7,
+        "pingprankster": 12,
+        "polarpunk": 10,
+        "radarrebel": 4,
+        "radarrover": 11,
+        "signalscout": 5,
+        "snowscout": 6,
+        "wavewanderer": 7
+      },
+      "difficulties": {
+        "easy": 2,
+        "medium": 10,
+        "hard": 1
+      },
+      "n_consensus_positions": 5233,
+      "n_picked_positions": 5233
+    },
+    "dronbreen-20230221-DAT_0014_A1_1": {
+      "n_traces": 15312,
+      "n_samples": 1990,
+      "contributors": {
+        "admin": 26,
+        "avalancheamigo": 26,
+        "coolclown": 31,
+        "echoteammate": 11,
+        "glacialguru": 11,
+        "icejive": 15,
+        "pingprankster": 23,
+        "radarrebel": 21,
+        "snowscout": 10,
+        "wavewizard": 7
+      },
+      "difficulties": {
+        "medium": 9,
+        "easy": 1
+      },
+      "n_consensus_positions": 15312,
+      "n_picked_positions": 15312
+    },
+    "dronbreen-20240209-DAT_0462_A1_1": {
+      "n_traces": 8554,
+      "n_samples": 1987,
+      "contributors": {
+        "admin": 9,
+        "coolclown": 11,
+        "echoteammate": 1,
+        "frostyfellow": 2,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingprankster": 4,
+        "radarrebel": 6,
+        "snowscout": 7,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 3,
+        "easy": 7
+      },
+      "n_consensus_positions": 8554,
+      "n_picked_positions": 8554
+    },
+    "dronbreen-20240209-DAT_0463_A1_3": {
+      "n_traces": 6498,
+      "n_samples": 1992,
+      "contributors": {
+        "admin": 8,
+        "coolclown": 11,
+        "glacialguru": 8,
+        "icejive": 11,
+        "pingpioneer": 8,
+        "pingprankster": 10,
+        "polarprize": 12,
+        "radarrebel": 11,
+        "snowscout": 8,
+        "wavewizard": 7
+      },
+      "difficulties": {
+        "easy": 2,
+        "medium": 8
+      },
+      "n_consensus_positions": 6498,
+      "n_picked_positions": 6498
+    },
+    "dronbreen-20240209-DAT_0466_A1_1": {
+      "n_traces": 4646,
+      "n_samples": 1995,
+      "contributors": {
+        "admin": 6,
+        "coolclown": 8,
+        "glacialguru": 3,
+        "icejive": 3,
+        "pingpioneer": 5,
+        "pingprankster": 6,
+        "radarforce": 5,
+        "radarrebel": 4,
+        "snowscout": 9,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 6,
+        "medium": 4
+      },
+      "n_consensus_positions": 4646,
+      "n_picked_positions": 4646
+    },
+    "dronbreen-20240209-DAT_0467_A1_3": {
+      "n_traces": 14340,
+      "n_samples": 1987,
+      "contributors": {
+        "admin": 12,
+        "chillchum": 24,
+        "coolclown": 10,
+        "cryocohort": 18,
+        "glacialguru": 10,
+        "icejive": 17,
+        "pingfrost": 13,
+        "pingprankster": 9,
+        "snowscout": 18,
+        "wavewizard": 7
+      },
+      "difficulties": {
+        "hard": 4,
+        "medium": 6
+      },
+      "n_consensus_positions": 14340,
+      "n_picked_positions": 14340
+    },
+    "dronbreen-20240209-DAT_0470_A1_3": {
+      "n_traces": 7110,
+      "n_samples": 1996,
+      "contributors": {
+        "admin": 11,
+        "chillchum": 5,
+        "coolclown": 20,
+        "echoteammate": 1,
+        "frostyfellow": 10,
+        "glacialguru": 5,
+        "icejive": 5,
+        "pingprankster": 8,
+        "radarrebel": 11,
+        "snowscout": 1,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 2,
+        "easy": 2
+      },
+      "n_consensus_positions": 7110,
+      "n_picked_positions": 7110
+    },
+    "dronbreen-20240209-DAT_0473_A1_3": {
+      "n_traces": 5940,
+      "n_samples": 1986,
+      "contributors": {
+        "admin": 5,
+        "avalancheamigo": 1,
+        "coolclown": 5,
+        "echoteammate": 2,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingprankster": 4,
+        "radarrebel": 3,
+        "snowscout": 3,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 7,
+        "hard": 1,
+        "medium": 2
+      },
+      "n_consensus_positions": 5940,
+      "n_picked_positions": 5940
+    },
+    "dronbreen-20250325-DAT_0007_A1_1": {
+      "n_traces": 2001,
+      "n_samples": 1996,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 1,
+        "glacialguru": 1,
+        "glacierpal": 2,
+        "icejive": 1,
+        "pingfrost": 1,
+        "pingprankster": 1,
+        "radarforce": 1,
+        "snowscout": 2,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 10
+      },
+      "n_consensus_positions": 2001,
+      "n_picked_positions": 2001
+    },
+    "dronbreen-20250325-DAT_0009_A1_4": {
+      "n_traces": 6352,
+      "n_samples": 1996,
+      "contributors": {
+        "admin": 4,
+        "bergbuddy": 8,
+        "coolclown": 5,
+        "echoteammate": 5,
+        "glacialguru": 8,
+        "icejive": 3,
+        "radarforce": 18,
+        "radarrebel": 6,
+        "snowscout": 10,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "medium": 6,
+        "easy": 3,
+        "hard": 1
+      },
+      "n_consensus_positions": 6151,
+      "n_picked_positions": 6352
+    },
+    "dronbreen-20250325-DAT_0015_A1_7": {
+      "n_traces": 14486,
+      "n_samples": 1997,
+      "contributors": {
+        "admin": 11,
+        "cheerchill": 23,
+        "coolclown": 18,
+        "echoteammate": 9,
+        "glacialguru": 13,
+        "icejive": 9,
+        "pingfrost": 14,
+        "radarforce": 18,
+        "snowscout": 20,
+        "wavewizard": 13
+      },
+      "difficulties": {
+        "medium": 6,
+        "hard": 4
+      },
+      "n_consensus_positions": 14154,
+      "n_picked_positions": 14486
+    },
+    "dronbreen-20250325-DAT_0029_A1_1": {
+      "n_traces": 3133,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 7,
+        "bergbuddy": 8,
+        "coolclown": 9,
+        "cryocohort": 9,
+        "echoteammate": 6,
+        "glacialguru": 4,
+        "icejive": 6,
+        "radarrebel": 9,
+        "snowscout": 5,
+        "wavewizard": 7
+      },
+      "difficulties": {
+        "medium": 8,
+        "hard": 2
+      },
+      "n_consensus_positions": 3133,
+      "n_picked_positions": 3133
+    },
+    "dronbreen-20250326-DAT_0002_A1_1": {
+      "n_traces": 6414,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 4,
+        "bergbuddy": 5,
+        "coolclown": 3,
+        "echoteammate": 2,
+        "glacialguru": 5,
+        "icejive": 2,
+        "pingprankster": 9,
+        "radarforce": 6,
+        "snowscout": 6,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "medium": 6,
+        "easy": 4
+      },
+      "n_consensus_positions": 6000,
+      "n_picked_positions": 6156
+    },
+    "dronbreen-20250326-DAT_0004_A1_1": {
+      "n_traces": 2745,
+      "n_samples": 1992,
+      "contributors": {
+        "admin": 4,
+        "cheerchill": 5,
+        "coolclown": 6,
+        "echoenthusiast": 7,
+        "echoteammate": 7,
+        "glacialguru": 3,
+        "icejive": 4,
+        "pingfrost": 10,
+        "radarforce": 7,
+        "snowscout": 8,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "medium": 8,
+        "hard": 3
+      },
+      "n_consensus_positions": 2745,
+      "n_picked_positions": 2745
+    },
+    "dronbreen-20250326-DAT_0006_A1_1": {
+      "n_traces": 4556,
+      "n_samples": 1991,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 3,
+        "bergbuddy": 6,
+        "coolclown": 4,
+        "echoteammate": 3,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingprankster": 4,
+        "radarforce": 3,
+        "snowscout": 4,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 8,
+        "easy": 3
+      },
+      "n_consensus_positions": 4556,
+      "n_picked_positions": 4556
+    },
+    "dronbreen-20250326-DAT_0013_A1_1": {
+      "n_traces": 4134,
+      "n_samples": 1992,
+      "contributors": {
+        "admin": 4,
+        "coolclown": 12,
+        "cryocohort": 13,
+        "echoenthusiast": 13,
+        "glacialguru": 5,
+        "icejive": 6,
+        "pingfrost": 8,
+        "radarrebel": 10,
+        "snowchum": 19,
+        "snowscout": 10
+      },
+      "difficulties": {
+        "easy": 1,
+        "hard": 1,
+        "medium": 8
+      },
+      "n_consensus_positions": 4088,
+      "n_picked_positions": 4134
+    },
+    "dronbreen-20250326-DAT_0014_A1_1": {
+      "n_traces": 3181,
+      "n_samples": 1992,
+      "contributors": {
+        "admin": 4,
+        "avalancheamigo": 10,
+        "coolclown": 12,
+        "echoteammate": 1,
+        "glacialguru": 2,
+        "icejive": 4,
+        "pingprankster": 9,
+        "radarforce": 15,
+        "snowscout": 7,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 3,
+        "medium": 6,
+        "hard": 1
+      },
+      "n_consensus_positions": 3181,
+      "n_picked_positions": 3181
+    },
+    "dronbreen-20250326-DAT_0044_A1_1": {
+      "n_traces": 2625,
+      "n_samples": 1600,
+      "contributors": {
+        "admin": 7,
+        "cheerchill": 1,
+        "coolclown": 3,
+        "cryocohort": 9,
+        "echoteammate": 1,
+        "glacialguru": 4,
+        "icejive": 4,
+        "pingprankster": 8,
+        "snowscout": 4,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "easy": 7,
+        "hard": 1,
+        "medium": 2
+      },
+      "n_consensus_positions": 2625,
+      "n_picked_positions": 2625
+    },
+    "dronbreen-20250326-DAT_0046_A1_1": {
+      "n_traces": 3489,
+      "n_samples": 840,
+      "contributors": {
+        "admin": 5,
+        "bergbuddy": 4,
+        "coolclown": 5,
+        "echoteammate": 2,
+        "glacialguru": 7,
+        "icejive": 6,
+        "pingprankster": 9,
+        "radarforce": 4,
+        "snowscout": 9,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "easy": 6,
+        "medium": 4
+      },
+      "n_consensus_positions": 3113,
+      "n_picked_positions": 3253
+    },
+    "dronbreen-20250326-DAT_0050_A1_1": {
+      "n_traces": 1210,
+      "n_samples": 1664,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 1,
+        "echoteammate": 1,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingpioneer": 1,
+        "pingprankster": 1,
+        "radarforce": 1,
+        "snowscout": 1,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 10
+      },
+      "n_consensus_positions": 1210,
+      "n_picked_positions": 1210
+    },
+    "dronbreen-20250326-DAT_0051_A1_1": {
+      "n_traces": 425,
+      "n_samples": 880,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 2,
+        "cryocohort": 1,
+        "echoteammate": 2,
+        "frostfacet": 4,
+        "frostyfellow": 3,
+        "glacialguru": 1,
+        "icejive": 1,
+        "snowscout": 2,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 10
+      },
+      "n_consensus_positions": 402,
+      "n_picked_positions": 403
+    },
+    "dronbreen-20250326-DAT_0052_A1_1": {
+      "n_traces": 2534,
+      "n_samples": 1408,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 1,
+        "echoteammate": 1,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingprankster": 3,
+        "radarforce": 3,
+        "radarrover": 1,
+        "snowscout": 1,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 10
+      },
+      "n_consensus_positions": 2534,
+      "n_picked_positions": 2534
+    },
+    "dronbreen-20250326-DAT_0053_A1_1": {
+      "n_traces": 2636,
+      "n_samples": 1120,
+      "contributors": {
+        "admin": 1,
+        "bergbuddy": 2,
+        "coolclown": 1,
+        "echoteammate": 1,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingprankster": 1,
+        "radarforce": 1,
+        "snowscout": 1,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 10
+      },
+      "n_consensus_positions": 2636,
+      "n_picked_positions": 2636
+    },
+    "dronbreen-20250326-DAT_0054_A1_1": {
+      "n_traces": 2472,
+      "n_samples": 1120,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 4,
+        "echoteammate": 3,
+        "glacialguru": 4,
+        "icejive": 3,
+        "pingprankster": 7,
+        "radarforce": 3,
+        "radarriff": 7,
+        "snowscout": 4,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 9,
+        "medium": 1
+      },
+      "n_consensus_positions": 2230,
+      "n_picked_positions": 2472
+    },
+    "dronbreen-20250326-DAT_0058_A1_1": {
+      "n_traces": 1711,
+      "n_samples": 1121,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 1,
+        "cryocohort": 2,
+        "echoteammate": 2,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingprankster": 2,
+        "radarforce": 1,
+        "snowscout": 1,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 9,
+        "medium": 1
+      },
+      "n_consensus_positions": 1711,
+      "n_picked_positions": 1711
+    },
+    "dronbreen-20250327-DAT_0062_A1_1": {
+      "n_traces": 4185,
+      "n_samples": 699,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 1,
+        "coolclown": 4,
+        "echoteammate": 1,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingprankster": 1,
+        "radarforce": 1,
+        "snowscout": 3,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 9,
+        "medium": 1
+      },
+      "n_consensus_positions": 4185,
+      "n_picked_positions": 4185
+    },
+    "dronbreen-20250327-DAT_0063_A1_1": {
+      "n_traces": 8003,
+      "n_samples": 699,
+      "contributors": {
+        "admin": 1,
+        "bergbuddy": 3,
+        "coolclown": 8,
+        "echoteammate": 3,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingprankster": 3,
+        "radarforce": 1,
+        "snowscout": 2,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 6,
+        "medium": 3,
+        "hard": 1
+      },
+      "n_consensus_positions": 8003,
+      "n_picked_positions": 8003
+    },
+    "dronbreen-20250327-DAT_0065_A1_1": {
+      "n_traces": 11235,
+      "n_samples": 700,
+      "contributors": {
+        "admin": 14,
+        "coolclown": 17,
+        "frostybuddy": 1,
+        "glacialguru": 7,
+        "icejive": 1,
+        "pingfrost": 25,
+        "pingpioneer": 10,
+        "pingprankster": 20,
+        "radarrebel": 6,
+        "snowscout": 9,
+        "wavewanderer": 11
+      },
+      "difficulties": {
+        "easy": 4,
+        "medium": 7
+      },
+      "n_consensus_positions": 11235,
+      "n_picked_positions": 11235
+    },
+    "dronbreen-20250327-DAT_0066_A1_1": {
+      "n_traces": 3548,
+      "n_samples": 700,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 5,
+        "coolclown": 3,
+        "echoteammate": 5,
+        "glacialguru": 3,
+        "icejive": 3,
+        "pingprankster": 2,
+        "radarforce": 2,
+        "snowscout": 3,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 7,
+        "medium": 3
+      },
+      "n_consensus_positions": 3548,
+      "n_picked_positions": 3548
+    },
+    "edvardbreen-20230305-DAT_0230_A1_1": {
+      "n_traces": 7233,
+      "n_samples": 1702,
+      "contributors": {
+        "admin": 4,
+        "coolclown": 3,
+        "cryocohort": 7,
+        "glacialguru": 4,
+        "glaciergrin": 6,
+        "icejive": 4,
+        "pingfrost": 3,
+        "pingprankster": 2,
+        "radarforce": 3,
+        "snowscout": 7,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "hard": 2,
+        "medium": 8,
+        "easy": 1
+      },
+      "n_consensus_positions": 4575,
+      "n_picked_positions": 7233
+    },
+    "edvardbreen-20230305-DAT_0232_A1_1": {
+      "n_traces": 6262,
+      "n_samples": 1702,
+      "contributors": {
+        "admin": 4,
+        "avalancheamigo": 9,
+        "chirpchum": 3,
+        "coolclown": 16,
+        "echoenthusiast": 13,
+        "echoteammate": 2,
+        "frostyfrolic": 6,
+        "glacialguru": 3,
+        "glaciergrin": 8,
+        "icejive": 4,
+        "pingpioneer": 5,
+        "pingprankster": 7,
+        "polarpal": 5,
+        "radarforce": 2,
+        "radarrebel": 10,
+        "radarrover": 3,
+        "signalsled": 7,
+        "signalsyncer": 4,
+        "snowscout": 11,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 12,
+        "hard": 4,
+        "easy": 4
+      },
+      "n_consensus_positions": 3469,
+      "n_picked_positions": 5809
+    },
+    "edvardbreen-20230305-DAT_0234_A1_1": {
+      "n_traces": 6163,
+      "n_samples": 1702,
+      "contributors": {
+        "admin": 4,
+        "coolclown": 8,
+        "glacialguru": 9,
+        "glaciergoof": 9,
+        "glaciergrin": 13,
+        "icejive": 12,
+        "pingprankster": 6,
+        "polarprize": 9,
+        "radarriff": 9,
+        "snowscout": 11,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "hard": 5,
+        "medium": 4,
+        "easy": 2
+      },
+      "n_consensus_positions": 4510,
+      "n_picked_positions": 6161
+    },
+    "edvardbreen-20240407-DAT_0380_A1_1": {
+      "n_traces": 18330,
+      "n_samples": 1992,
+      "contributors": {
+        "admin": 7,
+        "coolclown": 5,
+        "echoteammate": 5,
+        "frostyfellow": 5,
+        "glacialguru": 8,
+        "glaciergrin": 12,
+        "icejive": 13,
+        "pingprankster": 14,
+        "radarforce": 15,
+        "snowscout": 23,
+        "wavewizard": 12
+      },
+      "difficulties": {
+        "hard": 6,
+        "medium": 5
+      },
+      "n_consensus_positions": 6618,
+      "n_picked_positions": 12471
+    },
+    "edvardbreen-20240411-DAT_0395_A1_1": {
+      "n_traces": 18344,
+      "n_samples": 1984,
+      "contributors": {
+        "admin": 7,
+        "avalancheamigo": 18,
+        "chillchum": 16,
+        "coolclown": 9,
+        "glacialguru": 11,
+        "glaciergrin": 43,
+        "icejive": 13,
+        "radarforce": 9,
+        "radarrebel": 20,
+        "snowscout": 12,
+        "wavewizard": 10
+      },
+      "difficulties": {
+        "medium": 7,
+        "easy": 2,
+        "hard": 2
+      },
+      "n_consensus_positions": 16871,
+      "n_picked_positions": 18344
+    },
+    "edvardbreen-20240411-DAT_0396_A1_1": {
+      "n_traces": 18162,
+      "n_samples": 1987,
+      "contributors": {
+        "admin": 7,
+        "coolclown": 7,
+        "echoteammate": 5,
+        "glacialguru": 12,
+        "glaciergrin": 9,
+        "icejive": 4,
+        "pingprankster": 11,
+        "radarforce": 10,
+        "radarrebel": 15,
+        "snowscout": 12,
+        "wavewizard": 14
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 3,
+        "easy": 1
+      },
+      "n_consensus_positions": 14979,
+      "n_picked_positions": 18162
+    },
+    "elfenbeinbreen-20250326-DAT_0435_B1_1": {
+      "n_traces": 5354,
+      "n_samples": 1987,
+      "contributors": {
+        "admin": 10,
+        "coolclown": 11,
+        "glacialguru": 3,
+        "glaciergoof": 7,
+        "icejive": 7,
+        "pingprankster": 7,
+        "polarprize": 6,
+        "radarforce": 2,
+        "radarriff": 5,
+        "snowscout": 8,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 6,
+        "easy": 4,
+        "hard": 1
+      },
+      "n_consensus_positions": 4413,
+      "n_picked_positions": 4439
+    },
+    "elfenbeinbreen-20250326-DAT_0436_B1_1": {
+      "n_traces": 5313,
+      "n_samples": 1989,
+      "contributors": {
+        "admin": 4,
+        "cheerchill": 4,
+        "coolclown": 5,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingfrost": 2,
+        "pingprankster": 2,
+        "polarpioneer": 4,
+        "radarforce": 3,
+        "snowscout": 3,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 1,
+        "medium": 8,
+        "hard": 2
+      },
+      "n_consensus_positions": 4792,
+      "n_picked_positions": 5313
+    },
+    "etonbreen-20240503-DAT_0009_A1_1": {
+      "n_traces": 3286,
+      "n_samples": 1985,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 6,
+        "coolclown": 4,
+        "echoteammate": 2,
+        "glacialguru": 2,
+        "icejive": 2,
+        "radarrebel": 3,
+        "radarrover": 3,
+        "signalsyncer": 3,
+        "snowscout": 5,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "medium": 6,
+        "hard": 2,
+        "easy": 3
+      },
+      "n_consensus_positions": 3008,
+      "n_picked_positions": 3286
+    },
+    "etonbreen-20240503-DAT_0011_A1_1": {
+      "n_traces": 957,
+      "n_samples": 1985,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 2,
+        "echoteammate": 2,
+        "glacialguru": 2,
+        "icejive": 1,
+        "pingprankster": 1,
+        "radarforce": 1,
+        "radarrover": 1,
+        "signalsyncer": 2,
+        "snowscout": 2,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 11
+      },
+      "n_consensus_positions": 908,
+      "n_picked_positions": 928
+    },
+    "etonbreen-20240503-DAT_0012_A1_1": {
+      "n_traces": 5124,
+      "n_samples": 1985,
+      "contributors": {
+        "admin": 5,
+        "avalancheamigo": 6,
+        "chirpchum": 7,
+        "coolclown": 6,
+        "echoteammate": 8,
+        "glacialguru": 6,
+        "icejive": 5,
+        "radarforce": 5,
+        "radarrover": 7,
+        "signalsyncer": 5,
+        "snowscout": 5,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "hard": 2,
+        "medium": 8,
+        "easy": 2
+      },
+      "n_consensus_positions": 2566,
+      "n_picked_positions": 2956
+    },
+    "etonbreen-20250506-DAT_0027_B1_1": {
+      "n_traces": 5274,
+      "n_samples": 1990,
+      "contributors": {
+        "admin": 6,
+        "coolclown": 4,
+        "glacialguru": 7,
+        "glaciergoof": 12,
+        "icejive": 1,
+        "pingpioneer": 10,
+        "polarprize": 13,
+        "radarforce": 6,
+        "radarriff": 4,
+        "signalsyncer": 1,
+        "snowscout": 12
+      },
+      "difficulties": {
+        "medium": 9,
+        "hard": 2
+      },
+      "n_consensus_positions": 5274,
+      "n_picked_positions": 5274
+    },
+    "etonbreen-20250506-DAT_0028_B1_1": {
+      "n_traces": 1881,
+      "n_samples": 1989,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 2,
+        "echoteammate": 1,
+        "frostybuddy": 1,
+        "glacialguru": 2,
+        "icejive": 1,
+        "pingprankster": 6,
+        "radarforce": 2,
+        "signalsyncer": 1,
+        "snowscout": 2,
+        "wavewanderer": 5,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 8,
+        "medium": 4
+      },
+      "n_consensus_positions": 1881,
+      "n_picked_positions": 1881
+    },
+    "filantropbreen-20240406-DAT_0372_A1_1": {
+      "n_traces": 4579,
+      "n_samples": 1995,
+      "contributors": {
+        "admin": 11,
+        "avalancheamigo": 9,
+        "coolclown": 9,
+        "echoteammate": 3,
+        "frostfacet": 7,
+        "frostyfrolic": 4,
+        "glacialguru": 5,
+        "glaciergrin": 4,
+        "icejive": 11,
+        "pingprankster": 10,
+        "polarpal": 5,
+        "polarpioneer": 5,
+        "radarforce": 9,
+        "radarrebel": 6,
+        "signalsled": 8,
+        "signalsyncer": 4,
+        "snowscout": 6,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "hard": 12,
+        "medium": 6
+      },
+      "n_consensus_positions": 3086,
+      "n_picked_positions": 4579
+    },
+    "filantropbreen-20240406-DAT_0373_A1_1": {
+      "n_traces": 8922,
+      "n_samples": 1995,
+      "contributors": {
+        "admin": 24,
+        "coolclown": 22,
+        "echoteammate": 17,
+        "frostfacet": 44,
+        "glacialguru": 12,
+        "icejive": 7,
+        "pingprankster": 36,
+        "radarrebel": 16,
+        "radarrover": 31,
+        "snowscout": 48,
+        "wavewizard": 6
+      },
+      "difficulties": {
+        "hard": 6,
+        "medium": 5
+      },
+      "n_consensus_positions": 8863,
+      "n_picked_positions": 8922
+    },
+    "fimbulisen-20220430-DAT_0079_B1_1": {
+      "n_traces": 1057,
+      "n_samples": 1998,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 3,
+        "cryocohort": 3,
+        "echoteammate": 3,
+        "glacialguru": 3,
+        "glaciergoof": 3,
+        "icejive": 3,
+        "pingpioneer": 3,
+        "pingprankster": 3,
+        "radarriff": 4,
+        "radarrover": 3,
+        "snowscout": 3
+      },
+      "difficulties": {
+        "easy": 10,
+        "medium": 1,
+        "hard": 1
+      },
+      "n_consensus_positions": 617,
+      "n_picked_positions": 1057
+    },
+    "fimbulisen-20220430-DAT_0080_B1_2": {
+      "n_traces": 2891,
+      "n_samples": 2005,
+      "contributors": {
+        "admin": 4,
+        "coolclown": 5,
+        "cryocohort": 5,
+        "echoteammate": 5,
+        "glacialguru": 7,
+        "icejive": 3,
+        "pingpioneer": 8,
+        "pingprankster": 7,
+        "snowscout": 5,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 4,
+        "easy": 5,
+        "hard": 1
+      },
+      "n_consensus_positions": 1706,
+      "n_picked_positions": 1899
+    },
+    "fimbulisen-20220430-DAT_0084_B1_1": {
+      "n_traces": 5155,
+      "n_samples": 1992,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 4,
+        "coolclown": 8,
+        "echoteammate": 4,
+        "glacialguru": 4,
+        "icejive": 3,
+        "pingprankster": 7,
+        "radarrebel": 2,
+        "snowscout": 4,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "hard": 8,
+        "medium": 1,
+        "easy": 1
+      },
+      "n_consensus_positions": 4631,
+      "n_picked_positions": 4761
+    },
+    "finsterwalderbreen-20250407-DAT_0171_A1_1": {
+      "n_traces": 9029,
+      "n_samples": 1122,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 7,
+        "cryocohort": 4,
+        "echoenthusiast": 16,
+        "glacialguru": 2,
+        "icejive": 3,
+        "pingpioneer": 2,
+        "pingprankster": 3,
+        "radarriff": 2,
+        "snowscout": 7,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 5,
+        "medium": 6
+      },
+      "n_consensus_positions": 9029,
+      "n_picked_positions": 9029
+    },
+    "jinnbreen-20240206-DAT_0447_A1_1": {
+      "n_traces": 4411,
+      "n_samples": 2016,
+      "contributors": {
+        "admin": 5,
+        "coolclown": 5,
+        "echoenthusiast": 5,
+        "glacialguru": 6,
+        "icejive": 3,
+        "pingprankster": 4,
+        "polarpioneer": 5,
+        "polarpunk": 3,
+        "radarrebel": 4,
+        "radarrover": 4,
+        "snowscout": 9
+      },
+      "difficulties": {
+        "easy": 8,
+        "medium": 3
+      },
+      "n_consensus_positions": 3498,
+      "n_picked_positions": 3558
+    },
+    "jinnbreen-20240206-DAT_0448_A1_1": {
+      "n_traces": 9057,
+      "n_samples": 2018,
+      "contributors": {
+        "admin": 8,
+        "coolclown": 5,
+        "echoenthusiast": 3,
+        "glacialguru": 5,
+        "icejive": 2,
+        "icewanderer": 5,
+        "pingprankster": 1,
+        "polarpunk": 3,
+        "radarrover": 9,
+        "snowscout": 7,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "medium": 3,
+        "hard": 1,
+        "easy": 7
+      },
+      "n_consensus_positions": 9057,
+      "n_picked_positions": 9057
+    },
+    "kroppbreen-20230228-DAT_0042_A1_1": {
+      "n_traces": 12720,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 6,
+        "chirpchum": 2,
+        "coolclown": 7,
+        "frostfacet": 3,
+        "glacialguru": 3,
+        "icejive": 4,
+        "pingpioneer": 7,
+        "pingprankster": 3,
+        "radarrebel": 6,
+        "radarrover": 12,
+        "snowscout": 4,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 5,
+        "medium": 6,
+        "hard": 1
+      },
+      "n_consensus_positions": 12720,
+      "n_picked_positions": 12720
+    },
+    "kroppbreen-20240407-DAT_0384_A1_1": {
+      "n_traces": 15934,
+      "n_samples": 1991,
+      "contributors": {
+        "admin": 21,
+        "coolclown": 22,
+        "frostyfellow": 31,
+        "glacialguru": 23,
+        "glaciergoof": 31,
+        "icejive": 19,
+        "radarforce": 18,
+        "radarriff": 20,
+        "snowscout": 26,
+        "wavewizard": 26
+      },
+      "difficulties": {
+        "hard": 4,
+        "medium": 6
+      },
+      "n_consensus_positions": 11769,
+      "n_picked_positions": 14929
+    },
+    "lofthusbreen-20250326-DAT_0057_A1_1": {
+      "n_traces": 3845,
+      "n_samples": 1121,
+      "contributors": {
+        "admin": 3,
+        "chirpcheer": 2,
+        "coolclown": 5,
+        "echoteammate": 3,
+        "glacialguru": 3,
+        "icejive": 2,
+        "pingpioneer": 5,
+        "pingprankster": 6,
+        "polarpal": 2,
+        "radarrover": 2,
+        "snowscout": 5
+      },
+      "difficulties": {
+        "easy": 8,
+        "medium": 3
+      },
+      "n_consensus_positions": 3845,
+      "n_picked_positions": 3845
+    },
+    "mettebreen-20230305-DAT_0229_A1_1": {
+      "n_traces": 5727,
+      "n_samples": 1702,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 5,
+        "coolclown": 3,
+        "echoteammate": 4,
+        "frostybuddy": 2,
+        "glacialguru": 7,
+        "icejive": 3,
+        "pingprankster": 17,
+        "radarrebel": 8,
+        "radarrover": 7,
+        "snowscout": 19,
+        "wavewanderer": 6
+      },
+      "difficulties": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 4
+      },
+      "n_consensus_positions": 5630,
+      "n_picked_positions": 5726
+    },
+    "mettebreen-20230305-DAT_0235_A1_8": {
+      "n_traces": 9958,
+      "n_samples": 1702,
+      "contributors": {
+        "admin": 10,
+        "coolclown": 12,
+        "echoteammate": 10,
+        "glacialguru": 18,
+        "icejive": 8,
+        "pingprankster": 17,
+        "polarpioneer": 13,
+        "radarriff": 7,
+        "snowscout": 22,
+        "wavewizard": 6
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 1,
+        "easy": 2
+      },
+      "n_consensus_positions": 9049,
+      "n_picked_positions": 9958
+    },
+    "moysalbreen-20220222-DAT_0749_A1_1": {
+      "n_traces": 1791,
+      "n_samples": 1984,
+      "contributors": {
+        "admin": 4,
+        "chirpchum": 1,
+        "coolclown": 6,
+        "cryocohort": 9,
+        "frostfacet": 6,
+        "glacialguru": 4,
+        "icejive": 4,
+        "pingprankster": 6,
+        "radarrebel": 10,
+        "radarrover": 4,
+        "snowscout": 11
+      },
+      "difficulties": {
+        "medium": 9,
+        "easy": 2
+      },
+      "n_consensus_positions": 1788,
+      "n_picked_positions": 1791
+    },
+    "moysalbreen-20220222-DAT_0750_A1_6": {
+      "n_traces": 777,
+      "n_samples": 1964,
+      "contributors": {
+        "admin": 5,
+        "coolclown": 6,
+        "cryocohort": 8,
+        "frostfacet": 2,
+        "glacialguru": 9,
+        "icejive": 6,
+        "pingprankster": 7,
+        "radarrover": 6,
+        "snowscout": 7,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "medium": 6,
+        "hard": 2,
+        "easy": 2
+      },
+      "n_consensus_positions": 750,
+      "n_picked_positions": 775
+    },
+    "rabotbreen-20250402-DAT_0068_A1_1": {
+      "n_traces": 1156,
+      "n_samples": 1151,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 2,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingpioneer": 2,
+        "pingprankster": 2,
+        "polarpal": 1,
+        "radarforce": 1,
+        "snowscout": 3,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 5,
+        "hard": 1,
+        "easy": 4
+      },
+      "n_consensus_positions": 1156,
+      "n_picked_positions": 1156
+    },
+    "rabotbreen-20250402-DAT_0071_A1_1": {
+      "n_traces": 7284,
+      "n_samples": 1151,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 2,
+        "glacialguru": 2,
+        "icejive": 4,
+        "pingpioneer": 8,
+        "pingprankster": 6,
+        "polarprize": 9,
+        "radarforce": 7,
+        "radarrebel": 6,
+        "snowscout": 12,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "easy": 8,
+        "medium": 3
+      },
+      "n_consensus_positions": 7284,
+      "n_picked_positions": 7284
+    },
+    "ragna_mariebreen-20230305-DAT_0067_A1_1": {
+      "n_traces": 9032,
+      "n_samples": 2023,
+      "contributors": {
+        "admin": 6,
+        "coolclown": 4,
+        "echoteammate": 3,
+        "glacialguru": 4,
+        "icejive": 3,
+        "polarprize": 11,
+        "radarrebel": 3,
+        "radarrover": 8,
+        "snowscout": 8,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "medium": 4,
+        "easy": 4,
+        "hard": 2
+      },
+      "n_consensus_positions": 9032,
+      "n_picked_positions": 9032
+    },
+    "ragna_mariebreen-20230305-DAT_0068_A1_3": {
+      "n_traces": 8219,
+      "n_samples": 2023,
+      "contributors": {
+        "admin": 6,
+        "cheerchill": 5,
+        "coolclown": 9,
+        "frostyfusion": 8,
+        "glacialguru": 4,
+        "icejive": 4,
+        "pingfrost": 7,
+        "radarforce": 3,
+        "radarrover": 9,
+        "snowscout": 7,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 6,
+        "easy": 5
+      },
+      "n_consensus_positions": 7222,
+      "n_picked_positions": 8219
+    },
+    "ragna_mariebreen-20240317-DAT_0332_A1_2": {
+      "n_traces": 4826,
+      "n_samples": 1993,
+      "contributors": {
+        "admin": 7,
+        "coolclown": 4,
+        "glacialguru": 8,
+        "glacierpal": 5,
+        "icejive": 3,
+        "pingfrost": 4,
+        "polarprize": 6,
+        "radarforce": 5,
+        "snowscout": 8,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "hard": 6,
+        "medium": 2,
+        "easy": 2
+      },
+      "n_consensus_positions": 1806,
+      "n_picked_positions": 4826
+    },
+    "ragna_mariebreen-20240317-DAT_0345_A1_2": {
+      "n_traces": 3860,
+      "n_samples": 1998,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 2,
+        "cryocohort": 1,
+        "echoteammate": 2,
+        "glacialguru": 2,
+        "icejive": 1,
+        "pingprankster": 1,
+        "radarrebel": 1,
+        "snowscout": 5,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "easy": 7,
+        "medium": 3
+      },
+      "n_consensus_positions": 3051,
+      "n_picked_positions": 3090
+    },
+    "ragna_mariebreen-20240405-DAT_0357_A1_1": {
+      "n_traces": 4212,
+      "n_samples": 1996,
+      "contributors": {
+        "admin": 4,
+        "coolclown": 5,
+        "glacialguru": 1,
+        "glaciergoof": 3,
+        "icejive": 2,
+        "pingfrost": 6,
+        "polarprize": 4,
+        "radarforce": 3,
+        "snowscout": 7,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 1,
+        "easy": 2
+      },
+      "n_consensus_positions": 4212,
+      "n_picked_positions": 4212
+    },
+    "ragna_mariebreen-20240405-DAT_0358_A1_1": {
+      "n_traces": 13302,
+      "n_samples": 1996,
+      "contributors": {
+        "admin": 19,
+        "coolclown": 11,
+        "cryocohort": 42,
+        "echoenthusiast": 29,
+        "glacialguru": 25,
+        "icejive": 14,
+        "pingfrost": 23,
+        "pingprankster": 28,
+        "radarrebel": 20,
+        "snowscout": 11
+      },
+      "difficulties": {
+        "hard": 3,
+        "medium": 6,
+        "easy": 1
+      },
+      "n_consensus_positions": 8287,
+      "n_picked_positions": 13302
+    },
+    "ragna_mariebreen-20240405-DAT_0359_A1_1": {
+      "n_traces": 4121,
+      "n_samples": 1995,
+      "contributors": {
+        "admin": 6,
+        "coolclown": 10,
+        "cryocohort": 9,
+        "echoteammate": 9,
+        "glacialguru": 6,
+        "icejive": 14,
+        "pingfrost": 6,
+        "polarprize": 7,
+        "radarrebel": 12,
+        "snowscout": 7
+      },
+      "difficulties": {
+        "hard": 7,
+        "medium": 3
+      },
+      "n_consensus_positions": 1487,
+      "n_picked_positions": 4121
+    },
+    "ragna_mariebreen-20240412-DAT_0399_A1_1": {
+      "n_traces": 9183,
+      "n_samples": 1719,
+      "contributors": {
+        "admin": 6,
+        "avalancheamigo": 14,
+        "chillchum": 16,
+        "chirpchum": 12,
+        "coolclown": 7,
+        "echoteammate": 12,
+        "frostfacet": 24,
+        "frostyfrolic": 19,
+        "glacialguru": 13,
+        "glaciergrin": 21,
+        "icejive": 8,
+        "pingprankster": 25,
+        "polarpal": 21,
+        "polarprize": 12,
+        "radarforce": 11,
+        "radarrebel": 14,
+        "signalsled": 17,
+        "signalsyncer": 18,
+        "snowscout": 16,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "medium": 13,
+        "hard": 6,
+        "easy": 1
+      },
+      "n_consensus_positions": 7560,
+      "n_picked_positions": 9183
+    },
+    "ragna_mariebreen-20240412-DAT_0402_A1_1": {
+      "n_traces": 8034,
+      "n_samples": 1716,
+      "contributors": {
+        "admin": 10,
+        "coolclown": 7,
+        "cryocohort": 12,
+        "echoteammate": 3,
+        "glacialguru": 7,
+        "icejive": 1,
+        "radarrebel": 11,
+        "radarrover": 12,
+        "snowscout": 1,
+        "wavewizard": 7
+      },
+      "difficulties": {
+        "easy": 6,
+        "hard": 2,
+        "medium": 2
+      },
+      "n_consensus_positions": 8034,
+      "n_picked_positions": 8034
+    },
+    "ragna_mariebreen-20240412-DAT_0404_A1_1": {
+      "n_traces": 8871,
+      "n_samples": 1715,
+      "contributors": {
+        "admin": 3,
+        "bergbuddy": 5,
+        "cheerchill": 5,
+        "chirpcheer": 2,
+        "coolclown": 4,
+        "fieldfrost": 7,
+        "frostybuddy": 3,
+        "frostyfusion": 4,
+        "glacialguru": 3,
+        "glaciergoof": 4,
+        "glacierpal": 3,
+        "icejive": 3,
+        "pingfrost": 3,
+        "pingpioneer": 3,
+        "pingprankster": 3,
+        "polarpal": 4,
+        "polarprize": 19,
+        "polarpunk": 11,
+        "radarforce": 3,
+        "radarrebel": 4,
+        "radarriff": 3,
+        "radarrover": 7,
+        "snowscout": 17,
+        "wavewanderer": 7
+      },
+      "difficulties": {
+        "medium": 8,
+        "easy": 16
+      },
+      "n_consensus_positions": 8871,
+      "n_picked_positions": 8871
+    },
+    "ragna_mariebreen-20240412-DAT_0405_A1_1": {
+      "n_traces": 4746,
+      "n_samples": 1941,
+      "contributors": {
+        "admin": 3,
+        "cheerchill": 4,
+        "coolclown": 4,
+        "glacialguru": 6,
+        "icejive": 2,
+        "pingfrost": 6,
+        "pingprankster": 8,
+        "radarforce": 5,
+        "snowscout": 4,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "medium": 4,
+        "easy": 6
+      },
+      "n_consensus_positions": 4221,
+      "n_picked_positions": 4745
+    },
+    "rugaasfonna-20220218-DAT_0723_A1_1": {
+      "n_traces": 1312,
+      "n_samples": 1991,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 2,
+        "cryocohort": 4,
+        "glacialguru": 5,
+        "glacierpal": 6,
+        "icejive": 1,
+        "pingprankster": 3,
+        "radarrebel": 1,
+        "radarriff": 4,
+        "radarrover": 6,
+        "snowscout": 8
+      },
+      "difficulties": {
+        "easy": 6,
+        "medium": 4,
+        "hard": 1
+      },
+      "n_consensus_positions": 1312,
+      "n_picked_positions": 1312
+    },
+    "rugaasfonna-20220218-DAT_0727_A1_1": {
+      "n_traces": 1618,
+      "n_samples": 1989,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 1,
+        "cryocohort": 3,
+        "frostyfusion": 6,
+        "glacialguru": 4,
+        "icejive": 1,
+        "pingprankster": 4,
+        "radarforce": 1,
+        "snowscout": 6,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 5,
+        "medium": 4,
+        "hard": 1
+      },
+      "n_consensus_positions": 1618,
+      "n_picked_positions": 1618
+    },
+    "rugaasfonna-20220218-DAT_0728_A1_3": {
+      "n_traces": 1046,
+      "n_samples": 1988,
+      "contributors": {
+        "admin": 6,
+        "coolclown": 13,
+        "cryocohort": 13,
+        "echoteammate": 12,
+        "frostyfellow": 9,
+        "glacialguru": 11,
+        "icejive": 11,
+        "radarforce": 11,
+        "snowscout": 15,
+        "wavewizard": 9
+      },
+      "difficulties": {
+        "medium": 5,
+        "hard": 3,
+        "easy": 2
+      },
+      "n_consensus_positions": 942,
+      "n_picked_positions": 1046
+    },
+    "rugaasfonna-20220222-DAT_0738_A1_9": {
+      "n_traces": 3158,
+      "n_samples": 1980,
+      "contributors": {
+        "admin": 17,
+        "coolclown": 34,
+        "cryocohort": 29,
+        "echoteammate": 33,
+        "glacialguru": 52,
+        "icejive": 33,
+        "pingprankster": 44,
+        "radarrebel": 24,
+        "snowscout": 44,
+        "wavewizard": 15
+      },
+      "difficulties": {
+        "hard": 8,
+        "medium": 2
+      },
+      "n_consensus_positions": 3134,
+      "n_picked_positions": 3158
+    },
+    "scott_turnerbreen-20240207-DAT_0453_A1_2": {
+      "n_traces": 5247,
+      "n_samples": 1973,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 3,
+        "echoenthusiast": 13,
+        "echoteammate": 4,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingprankster": 4,
+        "polarprize": 9,
+        "radarrover": 4,
+        "snowscout": 16
+      },
+      "difficulties": {
+        "easy": 1,
+        "hard": 5,
+        "medium": 4
+      },
+      "n_consensus_positions": 4119,
+      "n_picked_positions": 5247
+    },
+    "scott_turnerbreen-20240207-DAT_0455_A1_1": {
+      "n_traces": 5629,
+      "n_samples": 1968,
+      "contributors": {
+        "admin": 14,
+        "cheerchill": 5,
+        "coolclown": 3,
+        "echoenthusiast": 19,
+        "glacialguru": 2,
+        "icejive": 4,
+        "pingprankster": 4,
+        "polarprize": 10,
+        "snowscout": 15,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "hard": 8,
+        "medium": 1,
+        "easy": 1
+      },
+      "n_consensus_positions": 5519,
+      "n_picked_positions": 5627
+    },
+    "scott_turnerbreen-20240207-DAT_0456_A1_1": {
+      "n_traces": 1602,
+      "n_samples": 1970,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 1,
+        "cryocohort": 7,
+        "echoteammate": 2,
+        "glacialguru": 2,
+        "icejive": 1,
+        "pingprankster": 1,
+        "radarforce": 6,
+        "snowscout": 9,
+        "wavewizard": 2
+      },
+      "difficulties": {
+        "easy": 1,
+        "hard": 5,
+        "medium": 4
+      },
+      "n_consensus_positions": 1601,
+      "n_picked_positions": 1600
+    },
+    "scott_turnerbreen-20240207-DAT_0457_A1_3": {
+      "n_traces": 8744,
+      "n_samples": 1970,
+      "contributors": {
+        "admin": 12,
+        "avalancheamigo": 16,
+        "coolclown": 8,
+        "frostfacet": 30,
+        "glacialguru": 15,
+        "icejive": 8,
+        "pingprankster": 8,
+        "radarrebel": 21,
+        "snowscout": 37,
+        "wavewizard": 5
+      },
+      "difficulties": {
+        "hard": 8,
+        "medium": 2
+      },
+      "n_consensus_positions": 8543,
+      "n_picked_positions": 8721
+    },
+    "slakbreen-20220330-DAT_0250_A1_2": {
+      "n_traces": 3412,
+      "n_samples": 1992,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 1,
+        "cryocohort": 3,
+        "echoteammate": 1,
+        "glacialguru": 5,
+        "icejive": 1,
+        "pingprankster": 4,
+        "radarforce": 5,
+        "snowscout": 5,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "medium": 7,
+        "easy": 3
+      },
+      "n_consensus_positions": 3412,
+      "n_picked_positions": 3412
+    },
+    "slakbreen-20220330-DAT_0253_A1_1": {
+      "n_traces": 8519,
+      "n_samples": 1994,
+      "contributors": {
+        "admin": 8,
+        "avalancheamigo": 11,
+        "cheerchill": 12,
+        "coolclown": 2,
+        "echoteammate": 7,
+        "glacialguru": 8,
+        "icejive": 1,
+        "pingprankster": 18,
+        "snowscout": 20,
+        "wavewizard": 9
+      },
+      "difficulties": {
+        "medium": 6,
+        "hard": 4
+      },
+      "n_consensus_positions": 7896,
+      "n_picked_positions": 8519
+    },
+    "slakbreen-20230320-DAT_0296_A1_1": {
+      "n_traces": 9072,
+      "n_samples": 1999,
+      "contributors": {
+        "admin": 5,
+        "coolclown": 9,
+        "frostyfusion": 7,
+        "glacialguru": 6,
+        "icejive": 3,
+        "pingprankster": 8,
+        "radarforce": 7,
+        "radarrover": 10,
+        "snowscout": 8,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 7,
+        "hard": 1,
+        "easy": 2
+      },
+      "n_consensus_positions": 8713,
+      "n_picked_positions": 9071
+    },
+    "slakbreen-20230320-DAT_0297_A1_1": {
+      "n_traces": 1608,
+      "n_samples": 1998,
+      "contributors": {
+        "admin": 4,
+        "coolclown": 5,
+        "frostybuddy": 4,
+        "glacialguru": 4,
+        "icejive": 2,
+        "pingprankster": 4,
+        "radarrebel": 10,
+        "radarrover": 7,
+        "snowscout": 13,
+        "wavewanderer": 4
+      },
+      "difficulties": {
+        "hard": 6,
+        "medium": 4
+      },
+      "n_consensus_positions": 1379,
+      "n_picked_positions": 1608
+    },
+    "slakbreen-20230320-DAT_0298_A1_1": {
+      "n_traces": 7059,
+      "n_samples": 1998,
+      "contributors": {
+        "admin": 7,
+        "cheerchill": 4,
+        "coolclown": 6,
+        "frostyfusion": 3,
+        "glacialguru": 3,
+        "icejive": 3,
+        "pingfrost": 8,
+        "radarforce": 1,
+        "radarrover": 5,
+        "snowscout": 5
+      },
+      "difficulties": {
+        "medium": 6,
+        "easy": 3,
+        "hard": 1
+      },
+      "n_consensus_positions": 6990,
+      "n_picked_positions": 7059
+    },
+    "slakbreen-20230320-DAT_0299_A1_1": {
+      "n_traces": 5788,
+      "n_samples": 1998,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 1,
+        "cryocohort": 9,
+        "echoteammate": 3,
+        "glacialguru": 3,
+        "icejive": 1,
+        "polarpioneer": 7,
+        "radarforce": 10,
+        "snowscout": 14,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "hard": 4,
+        "easy": 2,
+        "medium": 4
+      },
+      "n_consensus_positions": 5372,
+      "n_picked_positions": 5788
+    },
+    "slakbreen-20230320-DAT_0300_A1_2": {
+      "n_traces": 2556,
+      "n_samples": 1999,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 4,
+        "echoteammate": 2,
+        "glacialguru": 4,
+        "icejive": 1,
+        "pingprankster": 6,
+        "radarforce": 3,
+        "radarrover": 4,
+        "snowscout": 3,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 5,
+        "medium": 5
+      },
+      "n_consensus_positions": 2074,
+      "n_picked_positions": 2555
+    },
+    "slakbreen-20230320-DAT_0302_A1_1": {
+      "n_traces": 5694,
+      "n_samples": 1999,
+      "contributors": {
+        "admin": 4,
+        "avalancheamigo": 5,
+        "coolclown": 1,
+        "echoteammate": 1,
+        "glacialguru": 6,
+        "icejive": 1,
+        "radarforce": 3,
+        "radarrover": 5,
+        "snowscout": 8,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "hard": 3,
+        "medium": 4,
+        "easy": 3
+      },
+      "n_consensus_positions": 5694,
+      "n_picked_positions": 5694
+    },
+    "slakbreen-20230320-DAT_0303_A1_1": {
+      "n_traces": 6509,
+      "n_samples": 1999,
+      "contributors": {
+        "admin": 6,
+        "coolclown": 4,
+        "glacialguru": 7,
+        "glaciergoof": 6,
+        "icejive": 3,
+        "pingprankster": 14,
+        "radarforce": 5,
+        "radarriff": 12,
+        "snowscout": 9,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 5,
+        "easy": 2,
+        "hard": 3
+      },
+      "n_consensus_positions": 5918,
+      "n_picked_positions": 6509
+    },
+    "slakbreen-20240310-DAT_0286_A1_1": {
+      "n_traces": 14964,
+      "n_samples": 1635,
+      "contributors": {
+        "admin": 9,
+        "coolclown": 9,
+        "cryocohort": 8,
+        "echoteammate": 3,
+        "glacialguru": 7,
+        "icejive": 3,
+        "pingprankster": 9,
+        "radarforce": 2,
+        "snowscout": 7,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "medium": 6,
+        "easy": 4
+      },
+      "n_consensus_positions": 14964,
+      "n_picked_positions": 14964
+    },
+    "slakbreen-20240310-DAT_0287_A1_1": {
+      "n_traces": 3255,
+      "n_samples": 1635,
+      "contributors": {
+        "admin": 5,
+        "chirpchum": 5,
+        "coolclown": 3,
+        "cryocohort": 5,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingfrost": 6,
+        "pingprankster": 3,
+        "radarforce": 3,
+        "radarrover": 4,
+        "snowscout": 3
+      },
+      "difficulties": {
+        "easy": 6,
+        "medium": 5
+      },
+      "n_consensus_positions": 3255,
+      "n_picked_positions": 3255
+    },
+    "slakbreen-20240310-DAT_0289_A1_1": {
+      "n_traces": 8667,
+      "n_samples": 1635,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 6,
+        "glacialguru": 7,
+        "glacierpal": 3,
+        "icejive": 15,
+        "pingfrost": 12,
+        "pingprankster": 3,
+        "radarforce": 4,
+        "snowscout": 6,
+        "wavewizard": 11
+      },
+      "difficulties": {
+        "easy": 2,
+        "medium": 7,
+        "hard": 1
+      },
+      "n_consensus_positions": 8667,
+      "n_picked_positions": 8667
+    },
+    "slakbreen-20240310-DAT_0290_A1_1": {
+      "n_traces": 12146,
+      "n_samples": 1635,
+      "contributors": {
+        "admin": 10,
+        "coolclown": 7,
+        "cryocohort": 33,
+        "echoteammate": 15,
+        "glacialguru": 22,
+        "icejive": 7,
+        "pingprankster": 17,
+        "radarrebel": 24,
+        "snowscout": 19,
+        "wavewizard": 9
+      },
+      "difficulties": {
+        "medium": 8,
+        "hard": 2
+      },
+      "n_consensus_positions": 11541,
+      "n_picked_positions": 12146
+    },
+    "slakbreen-20240310-DAT_0291_A1_1": {
+      "n_traces": 3123,
+      "n_samples": 1635,
+      "contributors": {
+        "admin": 3,
+        "coolclown": 4,
+        "echoteammate": 1,
+        "frostyfusion": 2,
+        "glacialguru": 4,
+        "glacierpal": 3,
+        "icejive": 1,
+        "pingprankster": 2,
+        "radarforce": 1,
+        "radarrover": 3,
+        "snowscout": 3
+      },
+      "difficulties": {
+        "medium": 3,
+        "easy": 8
+      },
+      "n_consensus_positions": 3123,
+      "n_picked_positions": 3123
+    },
+    "slakbreen-20240310-DAT_0292_A1_1": {
+      "n_traces": 10487,
+      "n_samples": 1635,
+      "contributors": {
+        "admin": 15,
+        "coolclown": 4,
+        "echoteammate": 1,
+        "glacialguru": 5,
+        "glacierpal": 1,
+        "icejive": 1,
+        "pingprankster": 5,
+        "snowscout": 8,
+        "wavewanderer": 3,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "medium": 5,
+        "hard": 1,
+        "easy": 4
+      },
+      "n_consensus_positions": 10487,
+      "n_picked_positions": 10487
+    },
+    "svellnosbreen-20220218-DAT_0735_A1_2": {
+      "n_traces": 1240,
+      "n_samples": 1991,
+      "contributors": {
+        "admin": 1,
+        "coolclown": 3,
+        "cryocohort": 3,
+        "echoteammate": 1,
+        "glacialguru": 3,
+        "icejive": 1,
+        "pingprankster": 3,
+        "polarprize": 9,
+        "radarriff": 3,
+        "radarrover": 5,
+        "snowscout": 8
+      },
+      "difficulties": {
+        "easy": 3,
+        "hard": 3,
+        "medium": 5
+      },
+      "n_consensus_positions": 1240,
+      "n_picked_positions": 1240
+    },
+    "vallakrabreen-20210513-DAT_0012_A1_1": {
+      "n_traces": 11053,
+      "n_samples": 1990,
+      "contributors": {
+        "admin": 24,
+        "coolclown": 12,
+        "fieldfrost": 8,
+        "glacialguru": 6,
+        "glaciergoof": 9,
+        "icejive": 1,
+        "radarriff": 10,
+        "radarrover": 11,
+        "snowscout": 5,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "medium": 6,
+        "hard": 2,
+        "easy": 2
+      },
+      "n_consensus_positions": 11053,
+      "n_picked_positions": 11043
+    },
+    "vallakrabreen-20210513-DAT_0014_A1_31": {
+      "n_traces": 56360,
+      "n_samples": 1990,
+      "contributors": {
+        "admin": 62,
+        "avalancheamigo": 66,
+        "coolclown": 52,
+        "cryocohort": 44,
+        "echoteammate": 9,
+        "glacialguru": 42,
+        "icejive": 24,
+        "radarrover": 86,
+        "snowscout": 37,
+        "wavewizard": 9
+      },
+      "difficulties": {
+        "hard": 6,
+        "medium": 4
+      },
+      "n_consensus_positions": 55198,
+      "n_picked_positions": 56360
+    },
+    "vallakrabreen-20220419-DAT_0067_A1_1": {
+      "n_traces": 2535,
+      "n_samples": 1993,
+      "contributors": {
+        "admin": 6,
+        "coolclown": 3,
+        "frostyfellow": 3,
+        "glacialguru": 2,
+        "icejive": 1,
+        "pingprankster": 5,
+        "radarforce": 4,
+        "radarrebel": 6,
+        "snowscout": 3,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 6,
+        "hard": 3,
+        "easy": 1
+      },
+      "n_consensus_positions": 2535,
+      "n_picked_positions": 2532
+    },
+    "vallakrabreen-20220419-DAT_0068_A1_1": {
+      "n_traces": 8896,
+      "n_samples": 1989,
+      "contributors": {
+        "admin": 21,
+        "coolclown": 15,
+        "cryocohort": 18,
+        "echoteammate": 1,
+        "glacialguru": 8,
+        "icejive": 8,
+        "radarforce": 8,
+        "radarrebel": 15,
+        "snowscout": 12,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 5,
+        "hard": 4,
+        "easy": 1
+      },
+      "n_consensus_positions": 8896,
+      "n_picked_positions": 8896
+    },
+    "vallakrabreen-20220419-DAT_0069_A1_3": {
+      "n_traces": 4869,
+      "n_samples": 1987,
+      "contributors": {
+        "admin": 9,
+        "coolclown": 9,
+        "cryocohort": 9,
+        "glacialguru": 7,
+        "icejive": 4,
+        "pingfrost": 12,
+        "pingprankster": 8,
+        "radarforce": 2,
+        "snowscout": 8,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "medium": 5,
+        "hard": 5
+      },
+      "n_consensus_positions": 4593,
+      "n_picked_positions": 4440
+    },
+    "vallakrabreen-20220505-DAT_0098_A1_1": {
+      "n_traces": 3913,
+      "n_samples": 1984,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 4,
+        "cryocohort": 2,
+        "echoteammate": 1,
+        "glacialguru": 4,
+        "icejive": 1,
+        "pingprankster": 6,
+        "radarforce": 1,
+        "snowscout": 6,
+        "wavewizard": 3
+      },
+      "difficulties": {
+        "easy": 4,
+        "medium": 6
+      },
+      "n_consensus_positions": 3913,
+      "n_picked_positions": 3913
+    },
+    "vallakrabreen-20220505-DAT_0100_A1_1": {
+      "n_traces": 1577,
+      "n_samples": 1982,
+      "contributors": {
+        "admin": 2,
+        "coolclown": 3,
+        "fieldfrost": 3,
+        "frostyfusion": 3,
+        "glacialguru": 4,
+        "glacierpal": 4,
+        "icejive": 1,
+        "pingprankster": 4,
+        "radarforce": 1,
+        "radarrover": 6,
+        "snowscout": 4,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 8,
+        "medium": 4
+      },
+      "n_consensus_positions": 1577,
+      "n_picked_positions": 1577
+    },
+    "von_postbreen-20250402-DAT_0024_A1_0002_1": {
+      "n_traces": 5159,
+      "n_samples": 1151,
+      "contributors": {
+        "admin": 3,
+        "avalancheamigo": 5,
+        "coolclown": 5,
+        "echoteammate": 4,
+        "fieldfrost": 3,
+        "glacialguru": 3,
+        "icejive": 9,
+        "pingfrost": 9,
+        "pingpioneer": 9,
+        "pingprankster": 7,
+        "radarrebel": 3,
+        "snowscout": 10
+      },
+      "difficulties": {
+        "easy": 4,
+        "medium": 7,
+        "hard": 1
+      },
+      "n_consensus_positions": 4646,
+      "n_picked_positions": 5159
+    },
+    "winsnesbreen-20240503-DAT_0013_A1_1": {
+      "n_traces": 1412,
+      "n_samples": 1985,
+      "contributors": {
+        "admin": 1,
+        "avalancheamigo": 1,
+        "coolclown": 4,
+        "echoteammate": 1,
+        "glacialguru": 2,
+        "glaciergrin": 3,
+        "icejive": 1,
+        "pingprankster": 3,
+        "polarpal": 4,
+        "radarforce": 1,
+        "radarrebel": 4,
+        "radarriff": 4,
+        "signalsled": 1,
+        "signalsyncer": 5,
+        "snowscout": 4,
+        "wavewizard": 4
+      },
+      "difficulties": {
+        "hard": 12,
+        "medium": 3,
+        "easy": 1
+      },
+      "n_consensus_positions": 1412,
+      "n_picked_positions": 1412
+    },
+    "winsnesbreen-20240503-DAT_0014_A1_1": {
+      "n_traces": 3720,
+      "n_samples": 1985,
+      "contributors": {
+        "admin": 1,
+        "cheerchill": 1,
+        "coolclown": 5,
+        "glacialguru": 1,
+        "icejive": 1,
+        "pingpioneer": 5,
+        "pingprankster": 3,
+        "radarrover": 2,
+        "signalsyncer": 2,
+        "snowscout": 17,
+        "wavewizard": 1
+      },
+      "difficulties": {
+        "easy": 5,
+        "medium": 6
+      },
+      "n_consensus_positions": 3720,
+      "n_picked_positions": 3720
+    }
+  }
+}

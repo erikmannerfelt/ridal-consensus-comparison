@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ridal consensus comparison</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/favicon.svg" />
+  <link rel="stylesheet" href="assets/style.css" />
+  <script src="assets/vendor/papaparse.min.js" defer></script>
+  <script src="assets/vendor/jszip.min.js" defer></script>
+  <script src="assets/vendor/plotly.min.js" defer></script>
+  <script type="module" src="app/main.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark">∿</span>
+        <div>
+          <h1>Ridal consensus comparison</h1>
+          <p>Upload a group's picks and see how they agree with the published consensus.</p>
+        </div>
+      </div>
+      <div id="reference-status" class="pill pill-muted">Checking reference…</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel" id="upload-panel">
+      <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Upload picked layer points">
+        <strong>Drop a group's ridal download here</strong>
+        <span>or <span class="link">choose files</span> &middot; CSV / GeoJSON, or a zip of them</span>
+        <span class="hint">Accepts “picked layer points” (per-user). Legacy layer ids only — see the notes.</span>
+      </div>
+      <input type="file" id="file-input" multiple accept=".csv,.geojson,.json,.zip" hidden />
+
+      <div class="upload-options">
+        <label>
+          Agreement tolerance (m)
+          <input type="number" id="tolerance" value="2" min="0.1" step="0.5" />
+        </label>
+        <label class="checkbox">
+          <input type="checkbox" id="bootstrap" checked />
+          Bootstrap convergence curve
+        </label>
+      </div>
+
+      <div class="demo">
+        <span>No export handy? Try a simulated group:</span>
+        <button class="ghost" data-demo="group-small.zip">3 contributors</button>
+        <button class="ghost" data-demo="group-medium.zip">6 contributors</button>
+        <button class="ghost" data-demo="group-large.zip">most contributors</button>
+      </div>
+    </section>
+
+    <div id="status" class="status" hidden></div>
+
+    <section id="results" hidden>
+      <div class="metric-tabs" id="metric-tabs" role="tablist" aria-label="Layer to compare"></div>
+      <div class="cards" id="headline"></div>
+
+      <section class="panel">
+        <h2>What was read</h2>
+        <div id="validation" class="validation"></div>
+        <div id="notes" class="notes"></div>
+        <div id="warnings" class="warnings"></div>
+      </section>
+
+      <section class="panel">
+        <h2>This group vs the published consensus</h2>
+        <p class="lede">Every position where both the group and the published consensus define an ice thickness. The difference is <em>group − published</em>: positive means the group picked deeper than what was published.</p>
+        <div class="chart-grid">
+          <div id="diff-hist" class="chart"></div>
+          <div id="radargram-bars" class="chart"></div>
+        </div>
+        <div class="table-scroll">
+          <table id="radargram-table"></table>
+        </div>
+      </section>
+
+      <details class="panel" id="per-user-panel">
+        <summary>Per contributor <span class="summary-hint">(hidden by default — click to expand)</span></summary>
+        <p class="lede">Each contributor's deviation from the group's own consensus and from the published consensus, averaged across the radargrams they picked on.</p>
+        <div class="chart-grid">
+          <div id="user-bars" class="chart"></div>
+          <div id="user-coverage" class="chart"></div>
+        </div>
+        <div class="table-scroll">
+          <table id="user-table"></table>
+        </div>
+      </details>
+
+      <section class="panel" id="bootstrap-panel">
+        <h2>How many contributors are enough?</h2>
+        <p class="lede">A random subgroup of <em>k</em> contributors is drawn many times and compared with the published consensus. The closer the curve is to 100%, the fewer contributors are needed.</p>
+        <p id="bootstrap-takeaway" class="takeaway"></p>
+        <div id="bootstrap-within" class="chart"></div>
+      </section>
+
+      <section class="panel" id="slope-panel">
+        <h2>Steepness vs disagreement</h2>
+        <p class="lede">The consensus' along-track thickness slope, as an angle in degrees, against how spread out the contributors are there. Spread is shown relative to each radargram's typical value, so 1.0× is normal; the line is the binned median and the band the 25–75% range. Hover for the position count behind each point.</p>
+        <p id="slope-takeaway" class="takeaway"></p>
+        <div id="slope-chart" class="chart chart-wide"></div>
+      </section>
+
+      <div class="actions">
+        <button id="download-json" class="ghost">Download full results (JSON)</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      The published reference is the 0.49 order statistic over the pooled bed picks of the full
+      ridal interpretation set, accessed from the published data at
+      <a href="https://doi.org/10.5281/zenodo.17882299" target="_blank" rel="noopener noreferrer">doi.org/10.5281/zenodo.17882299</a>.
+      Consensus engine and reference builder are validated against the study's own output; see
+      <code>README.md</code>.
+    </p>
+  </footer>
+</body>
+</html>
