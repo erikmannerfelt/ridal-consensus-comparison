@@ -8,7 +8,7 @@ import * as charts from "./charts.js";
 import { LAYER_LABELS } from "./constants.js";
 
 const $ = (id) => document.getElementById(id);
-const state = { reference: null, upload: null, result: null, tolerance: 2, bootstrap: true, metric: "thickness", view: 0, uirevision: "v0" };
+const state = { reference: null, upload: null, result: null, tolerance: 2, metric: "thickness", view: 0, uirevision: "v0" };
 
 // --- small formatting helpers ----------------------------------------------
 
@@ -91,7 +91,6 @@ async function runAnalysis() {
     const result = await analyze(state.upload, {
       reference: state.reference,
       tolerance: state.tolerance,
-      bootstrap: state.bootstrap,
     });
     state.result = result;
     if (!result.metrics[state.metric]) state.metric = "thickness";
@@ -371,7 +370,7 @@ function renderBootstrap(metric) {
         color: "#3f7d4f",
       },
     ],
-    { title: `Share of ${metric.label.toLowerCase()} within ${tolerance} m of published, by subgroup size`, xLabel: "contributors in subgroup (k)", yLabel: "% within tolerance", uirevision: state.uirevision },
+    { title: `Share of ${metric.label.toLowerCase()} within ${tolerance} m of published, by subgroup size`, xLabel: "Number of contributors", yLabel: "% within tolerance", uirevision: state.uirevision, xaxis: { dtick: 1, tickformat: "d" } },
   );
 
   const target = curve.find((point) => point.within >= 0.9);
@@ -463,10 +462,6 @@ function wireUpload() {
       state.tolerance = value;
       if (state.upload) runAnalysis();
     }
-  });
-  $("bootstrap").addEventListener("change", (event) => {
-    state.bootstrap = event.target.checked;
-    if (state.upload) runAnalysis();
   });
 
   // The per-contributor charts start collapsed; fit them on first open.

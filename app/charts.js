@@ -72,6 +72,8 @@ export function bar(element, labels, values, options = {}) {
 export function lines(element, series, options = {}) {
   const layout = baseLayout(options.title ?? "", options.xLabel ?? "", options.yLabel ?? "", options.uirevision);
   if (series.length > 1 || options.legend) layout.showlegend = true;
+  if (options.xaxis) Object.assign(layout.xaxis, options.xaxis);
+  if (options.yaxis) Object.assign(layout.yaxis, options.yaxis);
   Plotly.react(
     element,
     series.map((item, index) => ({

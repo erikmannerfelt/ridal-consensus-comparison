@@ -100,9 +100,13 @@ main { max-width: 1180px; margin: 1.25rem auto 3rem; padding: 0 1.25rem; }
 .upload-options input[type="number"] {
   width: 5rem; padding: 0.35rem 0.5rem; border: 1px solid var(--line); border-radius: 6px; font: inherit;
 }
-.checkbox { cursor: pointer; }
 
-.demo { margin-top: 1rem; display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; color: var(--muted); font-size: 0.88rem; }
+.demo { margin-top: 1rem; color: var(--muted); font-size: 0.88rem; }
+.demo > summary { cursor: pointer; list-style: none; color: var(--muted); font-size: 0.88rem; }
+.demo > summary::-webkit-details-marker { display: none; }
+.demo > summary::before { content: "▸ "; color: var(--accent); }
+.demo[open] > summary::before { content: "▾ "; }
+.demo-actions { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; margin-top: 0.6rem; }
 button {
   font: inherit; cursor: pointer; border-radius: 6px; border: 1px solid var(--accent);
   background: var(--accent); color: #fff; padding: 0.4rem 0.8rem;

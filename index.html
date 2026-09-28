@@ -40,18 +40,16 @@
           Agreement tolerance (m)
           <input type="number" id="tolerance" value="2" min="0.1" step="0.5" />
         </label>
-        <label class="checkbox">
-          <input type="checkbox" id="bootstrap" checked />
-          Bootstrap convergence curve
-        </label>
       </div>
 
-      <div class="demo">
-        <span>No export handy? Try a simulated group:</span>
-        <button class="ghost" data-demo="group-small.zip">3 contributors</button>
-        <button class="ghost" data-demo="group-medium.zip">6 contributors</button>
-        <button class="ghost" data-demo="group-large.zip">most contributors</button>
-      </div>
+      <details class="demo">
+        <summary>No export handy? Try a simulated group</summary>
+        <div class="demo-actions">
+          <button class="ghost" data-demo="group-small.zip">3 contributors</button>
+          <button class="ghost" data-demo="group-medium.zip">6 contributors</button>
+          <button class="ghost" data-demo="group-large.zip">most contributors</button>
+        </div>
+      </details>
     </section>
 
     <div id="status" class="status" hidden></div>
